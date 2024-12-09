@@ -31,9 +31,7 @@ HarshadBot is a personal finance research tool that leverages the power of langu
     ```
 
 4. Set up the environment variables:
-    - Create a 
-
-.env
+    - Create a .env
 
  file in the root directory.
     - Add your Google API key:
